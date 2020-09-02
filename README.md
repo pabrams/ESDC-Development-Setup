@@ -22,7 +22,7 @@ Go to <http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/Home/Details/228> a
 
 **Suggested Settings:**
 
-- Use 'Vim' as the default editor
+- Do not use 'Vim' as the default editor, unless you're already familiar with it
 
 **Configure Git**
 Open a command prompt and enter the following commands replacing `"Your name"` and `"email@domain.com"` (It's suggested that you use your departmental email)
